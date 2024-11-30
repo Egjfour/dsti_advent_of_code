@@ -1,0 +1,8 @@
+# Any data files
+*.txt
+*.csv
+*.parquet
+
+# Environment Files
+.env
+.venv
